@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1788103807|13527113';
+const CACHE_VERSION = '1788135233|13961854';
 /** @type {string} */
 const CACHE_PREFIX = 'Catnado-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
